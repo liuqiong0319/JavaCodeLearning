@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+
+    <groupId>qiong.liu.java</groupId>
+    <artifactId>selflearning</artifactId>
+    <version>1.0.0</version>
+
+    <properties>
+    <poi.version>3.15</poi.version>
+    </properties>
+
+    <distributionManagement>
+        <!--公司私服-->
+        <!--<snapshotRepository>-->
+            <!--<id>archjava</id>-->
+            <!--<url>http://maven.dev.elenet.me/nexus/content/repositories/ele-archjava-snapshots/</url>-->
+        <!--</snapshotRepository>-->
+        <!--<repository>-->
+            <!--<id>archjava</id>-->
+            <!--<url>http://maven.dev.elenet.me/nexus/content/repositories/ele-archjava-release/</url>-->
+        <!--</repository>-->
+
+        <!--maven公共地址-->
+        <!--1、maven包查询：-->
+        <!--http://mvnrepository.com/-->
+        <!--2、maven公共仓库 ：-->
+        <!--http://mirrors.ibiblio.org/pub/mirrors/maven2/-->
+        <!--http://gradle.artifactoryonline.com/gradle/libs-->
+        <!--http://gradle.artifactoryonline.com/gradle/plugins-->
+        <!--http://google-maven-repository.googlecode.com/svn/repository-->
+        <!--http://maven.springframework.org/release-->
+        <!--http://maven.springframework.org/milestone-->
+        <!--http://repository.codehaus.org-->
+        <!--http://repository.jboss.org/nexus/content/groups/public-jboss-->
+        <!--http://repo.jfrog.org/artifactory/plugins-releases-local-->
+        <!--http://repo.jfrog.org/artifactory/libs-releases-local-->
+        <!--http://download.java.net/maven/1-->
+        <!--http://download.java.net/maven/2-->
+        <!--http://repo1.maven.org/maven2-->
+        <!--http://www.intalio.org/public/maven2/-->
+        <!--http://www.jarvana.com/jarvana/browse/-->
+        <!--http://maven.alfresco.com/nexus/content/groups/public-->
+        <repository>
+            <id>com.springsource.repository.maven.release</id>
+            <url>http://maven.springframework.org/release/</url>
+        </repository>
+    </distributionManagement>
+
+    <!-- https://mvnrepository.com/artifact/com.github.redfish4ktc.soapui/soapui -->
+    <dependencies>
+    <dependency>
+        <groupId>com.github.redfish4ktc.soapui</groupId>
+        <artifactId>soapui</artifactId>
+        <version>4.0.1.0</version>
+    </dependency>
+        <!--Access Microsoft Format Files-->
+        <dependency>
+            <groupId>org.apache.poi</groupId>
+            <artifactId>poi</artifactId>
+            <version>${poi.version}</version>
+        </dependency>
+        <!-- https://mvnrepository.com/artifact/org.projectlombok/lombok-maven -->
+        <dependency>
+            <groupId>org.projectlombok</groupId>
+            <artifactId>lombok-maven</artifactId>
+            <version>1.16.18.1</version>
+            <type>pom</type>
+        </dependency>
+        <dependency>
+            <groupId>org.apache.poi</groupId>
+            <artifactId>poi-ooxml</artifactId>
+            <version>${poi.version}</version>
+        </dependency>
+        <dependency>
+            <groupId>org.apache.poi</groupId>
+            <artifactId>poi-ooxml-schemas</artifactId>
+            <version>${poi.version}</version>
+        </dependency>
+        <!--flexible XML framework for Java-->
+        <dependency>
+            <groupId>org.dom4j</groupId>
+            <artifactId>dom4j</artifactId>
+            <version>2.1.0</version>
+        </dependency>
+
+        <!-- https://mvnrepository.com/artifact/com.lispcast/org.apache.commons.lang -->
+        <dependency>
+            <groupId>com.lispcast</groupId>
+            <artifactId>org.apache.commons.lang</artifactId>
+            <version>2.5.0</version>
+        </dependency>
+        <dependency>
+            <groupId>org.projectlombok</groupId>
+            <artifactId>lombok</artifactId>
+            <version>1.16.10</version>
+            <scope>test</scope>
+        </dependency>
+    </dependencies>
+</project>
