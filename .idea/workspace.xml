@@ -2,281 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e7fc887d-9003-42ba-ad5a-1caa901f9909" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/artifacts/selflearning_jar.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_beust_jcommander_1_27.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_beanutils_commons_beanutils_1_9_3.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_collections_commons_collections_3_2_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_lang_commons_lang_2_5.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_logging_commons_logging_1_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_10.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__log4j_log4j_1_2_14.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_sf_ezmorph_ezmorph_1_0_6.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_sf_json_lib_json_lib_2_4.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_sourceforge_jexcelapi_jxl_2_6_10.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_pool2_2_5_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_beanshell_bsh_2_0b4.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_testng_testng_6_8.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_yaml_snakeyaml_1_6.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__redis_clients_jedis_2_9_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/META-INF/MANIFEST.MF" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/learning/self/IODemo/FileDemo/FileBasicMethod.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/learning/self/IODemo/FileDemo/FileBasicMethod2.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/learning/self/IODemo/FileDemo/FileListDemo.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/learning/self/IODemo/IODemo.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/learning/self/ThreadDemo/DeadThreadDemo/deadThreadMethod.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/learning/self/ThreadDemo/SellTicketsDemo/TicketsMainMethod.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/learning/self/ThreadDemo/SellTicketsDemo/TicketsSellMethod.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/learning/self/ThreadDemo/SingleInstanceDemo/singleInstanceLazyMethod.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/learning/self/ThreadDemo/StoreMoneyDemo/StoreMoneyMain.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/learning/self/ThreadDemo/StoreMoneyDemo/StoreMoneyMethod.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/learning/self/ThreadDemo/SyschronisedDemo/SyschronisedMain.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/learning/self/ThreadDemo/SyschronisedDemo/SyschronizedMethod.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/learning/self/ThreadDemo/ThreadCreateMethod1/MultiThreadRun.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/learning/self/ThreadDemo/ThreadCreateMethod1/ThreadCreateMethod.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/learning/self/ThreadDemo/ThreadCreateMethod2/MultiThreadRun.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/learning/self/ThreadDemo/ThreadCreateMethod2/ThreadCreateMethod.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/learning/self/arithmeticDemo/SelectSortDemo.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/learning/self/awt/frame/FrameDemo.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/learning/self/collectionDemo/CollectionAllMethod.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/learning/self/collectionDemo/CollectionBasicMethod.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/learning/self/collectionDemo/GenericDemo.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/learning/self/collectionDemo/GenericDemo2.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/learning/self/collectionDemo/IteratorMethod.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/learning/self/collectionDemo/domain/Person.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/learning/self/collectionDemo/domain/Student.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/learning/self/collectionDemo/domain/Worker.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/learning/self/collectionDemo/listDemo/LinkedListBasicMethod.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/learning/self/collectionDemo/listDemo/LinkedListStructorMethod.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/learning/self/collectionDemo/listDemo/LinkedListTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/learning/self/collectionDemo/listDemo/ListDuplicateRemove.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/learning/self/collectionDemo/listDemo/ListIteratorMethod.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/learning/self/collectionDemo/listDemo/Student.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/learning/self/collectionDemo/setDemo/ComPareByName.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/learning/self/collectionDemo/setDemo/CompareByAge.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/learning/self/collectionDemo/setDemo/CompareByAnyway.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/learning/self/collectionDemo/setDemo/CompareByLength.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/learning/self/collectionDemo/setDemo/HashSetMethod.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/learning/self/collectionDemo/setDemo/SetBasicMethod.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/learning/self/collectionDemo/setDemo/Student.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/learning/self/collectionDemo/setDemo/TreeSetMethod.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/learning/self/collectionDemo/setDemo/TreeSetMethod2.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/learning/self/collectionDemo/vectorDemo/vectorBasicMethod.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/learning/self/dateDemo/DateBasicMethod.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/learning/self/dateDemo/DateBasinMethod2.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/learning/self/dateDemo/DateParseDemo.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/learning/self/dateDemo/DateParseDemo2.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/learning/self/dateDemo/DateParseDemo3.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/learning/self/day09/SetDemo.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/learning/self/day10/DateTimeFormat.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/learning/self/ioDemo/AppCountDemo.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/learning/self/ioDemo/FileFilterBySuffix.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/learning/self/ioDemo/FileFilterDemo.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/learning/self/ioDemo/RandomAccessFileDemo.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/learning/self/ioDemo/RecursionDemo.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/learning/self/ioDemo/arrayStreamDemo/ArrayStreamDemo.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/learning/self/ioDemo/cutFile/MergeFileTest1.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/learning/self/ioDemo/cutFile/MergeFileTest2.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/learning/self/ioDemo/cutFile/MergeFileTest3.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/learning/self/ioDemo/cutFile/ReaderPartConfigDemo.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/learning/self/ioDemo/cutFile/splitFileDemo.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/learning/self/ioDemo/dataStreamDemo/DataStreamDemo.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/learning/self/ioDemo/domain/CompareStudentScore.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/learning/self/ioDemo/domain/Person.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/learning/self/ioDemo/domain/Student.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/learning/self/ioDemo/encodingDemo/CutStringDemo.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/learning/self/ioDemo/encodingDemo/EncodingDemo.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/learning/self/ioDemo/fileDemo/FileDeleteDemo.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/learning/self/ioDemo/fileDemo/FileDirFilterDemo.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/learning/self/ioDemo/fileDemo/FileDirFilterImpl.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/learning/self/ioDemo/fileDemo/FileListDemo2.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/learning/self/ioDemo/fileDemo/FileNameFilterDemo.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/learning/self/ioDemo/fileDemo/FileNameFilterImpl.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/learning/self/ioDemo/fileDemo/QueueMethod.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/learning/self/ioDemo/fileDemo/ReadExcelMethod.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/learning/self/ioDemo/printStreamDemo/PrintStreamDemo.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/learning/self/ioDemo/printStreamDemo/PrintWriterDemo.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/learning/self/ioDemo/readerWriterDemo/CopyFile.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/learning/self/ioDemo/readerWriterDemo/CopyFileByBuffer.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/learning/self/ioDemo/readerWriterDemo/KeyboardToFile.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/learning/self/ioDemo/readerWriterDemo/ReadFileFromKeyBoard.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/learning/self/ioDemo/readerWriterDemo/ReaderDemo.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/learning/self/ioDemo/sequenceDemo/ObjectStreamDemo.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/learning/self/ioDemo/streamDemo/ByteStreamBufferCopyFileTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/learning/self/ioDemo/streamDemo/ByteStreamDemo.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/learning/self/ioDemo/streamDemo/CopyFileTest1.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/learning/self/ioDemo/streamDemo/CopyFileTest2.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/learning/self/ioDemo/streamDemo/InputStreamDemo.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/learning/self/ioDemo/streamDemo/InputStreamDemo2.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/learning/self/ioDemo/streamDemo/OutputSteamException.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/learning/self/ioDemo/streamDemo/OutputStreamDemo.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/learning/self/jedisDemo/JedisDemo1.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/learning/self/mapDemo/BasicMapDemo.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/learning/self/mapDemo/MapTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/learning/self/mapDemo/ParamDemo.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/learning/self/mapDemo/StaticPack.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/learning/self/mapDemo/SubMapDemo.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/learning/self/mapDemo/domain/Student.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/learning/self/mapDemo/domain/StudentCompableByAge.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/learning/self/socketService/IPDemo/IPDemo.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/learning/self/socketService/tcpDemo1/ReceiveSocketDemo.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/learning/self/socketService/tcpDemo1/SendSocketDemo.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/learning/self/socketService/tcpDemo2/TCPClientDemo2.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/learning/self/socketService/tcpDemo2/TCPServerDemo2.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/learning/self/socketService/tcpTransDemo/TcpTransClient.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/learning/self/socketService/tcpTransDemo/TcpTransServer.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/learning/self/socketService/tcpUploadText/UploadTextClient.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/learning/self/socketService/tcpUploadText/UploadTextServer.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/learning/self/socketService/udpDemo/ReceiveMessageDemo.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/learning/self/socketService/udpDemo/SendMessageDemo.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/learning/self/socketService/udpDemo2/ReceiveMessageDemo2.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/learning/self/socketService/udpDemo2/SendMessageDemo2.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/learning/self/socketService/udpDemo2/UdpChatDemo.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/learning/self/stringBufferDemo/ArrayToStringMethod.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/learning/self/stringBufferDemo/CompareSubStringMethod.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/learning/self/stringBufferDemo/IntStringSort.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/learning/self/stringBufferDemo/StringBufferBasicMethod.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/learning/self/stringBufferDemo/StringSortMethod.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/learning/self/stringBufferDemo/StringTrimMethod.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/learning/self/stringDemo/StringBasicMethod.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/learning/self/stringDemo/StringDescend.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/learning/self/systemDemo/BasicSystemMethod.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/learning/work/SocketClientDemo.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/learning/work/SocketServiceDemo.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/learning/work/WriterFile.java" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/learning/work/FileRead.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/test-classes/learning/work/FileRead.class" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/test-classes/learning/self/day01/AssertDemo.class" afterPath="$PROJECT_DIR$/target/test-classes/learning/self/day01/AssertDemo.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/test-classes/learning/self/day01/BiSourt.class" afterPath="$PROJECT_DIR$/target/test-classes/learning/self/day01/BiSourt.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/test-classes/learning/self/day01/DateDemo.class" afterPath="$PROJECT_DIR$/target/test-classes/learning/self/day01/DateDemo.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/test-classes/learning/self/day01/Demo01.class" afterPath="$PROJECT_DIR$/target/test-classes/learning/self/day01/Demo01.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/test-classes/learning/self/day01/Initial.class" afterPath="$PROJECT_DIR$/target/test-classes/learning/self/day01/Initial.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/test-classes/learning/self/day01/PackClassDemo.class" afterPath="$PROJECT_DIR$/target/test-classes/learning/self/day01/PackClassDemo.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/test-classes/learning/self/day01/Rectangle.class" afterPath="$PROJECT_DIR$/target/test-classes/learning/self/day01/Rectangle.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/test-classes/learning/self/day01/RemoveDemo.class" afterPath="$PROJECT_DIR$/target/test-classes/learning/self/day01/RemoveDemo.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/test-classes/learning/self/day01/Shape.class" afterPath="$PROJECT_DIR$/target/test-classes/learning/self/day01/Shape.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/test-classes/learning/self/day01/StringDemo.class" afterPath="$PROJECT_DIR$/target/test-classes/learning/self/day01/StringDemo.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/test-classes/learning/self/day02/Basic$KeyIden.class" afterPath="$PROJECT_DIR$/target/test-classes/learning/self/day02/Basic$KeyIden.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/test-classes/learning/self/day02/ControlDemo.class" afterPath="$PROJECT_DIR$/target/test-classes/learning/self/day02/ControlDemo.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/test-classes/learning/self/day02/ExchangeNumGet.class" afterPath="$PROJECT_DIR$/target/test-classes/learning/self/day02/ExchangeNumGet.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/test-classes/learning/self/day02/MaxNumGet.class" afterPath="$PROJECT_DIR$/target/test-classes/learning/self/day02/MaxNumGet.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/test-classes/learning/self/day03/InnerClassDemo$Inner.class" afterPath="$PROJECT_DIR$/target/test-classes/learning/self/day03/InnerClassDemo$Inner.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/test-classes/learning/self/day03/InnerClassDemo.class" afterPath="$PROJECT_DIR$/target/test-classes/learning/self/day03/InnerClassDemo.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/test-classes/learning/self/day03/InnerStaticClassDemo$Inner.class" afterPath="$PROJECT_DIR$/target/test-classes/learning/self/day03/InnerStaticClassDemo$Inner.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/test-classes/learning/self/day03/InnerStaticClassDemo.class" afterPath="$PROJECT_DIR$/target/test-classes/learning/self/day03/InnerStaticClassDemo.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/test-classes/learning/self/day03/MethodInnerClassDemo$1InnerClass.class" afterPath="$PROJECT_DIR$/target/test-classes/learning/self/day03/MethodInnerClassDemo$1InnerClass.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/test-classes/learning/self/day03/MethodInnerClassDemo.class" afterPath="$PROJECT_DIR$/target/test-classes/learning/self/day03/MethodInnerClassDemo.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/test-classes/learning/self/day03/StrucDemo.class" afterPath="$PROJECT_DIR$/target/test-classes/learning/self/day03/StrucDemo.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/test-classes/learning/self/day03/StudentInfo.class" afterPath="$PROJECT_DIR$/target/test-classes/learning/self/day03/StudentInfo.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/test-classes/learning/self/day04/ArrayTest.class" afterPath="$PROJECT_DIR$/target/test-classes/learning/self/day04/ArrayTest.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/test-classes/learning/self/day04/CollegeStudent.class" afterPath="$PROJECT_DIR$/target/test-classes/learning/self/day04/CollegeStudent.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/test-classes/learning/self/day04/FinalDemo.class" afterPath="$PROJECT_DIR$/target/test-classes/learning/self/day04/FinalDemo.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/test-classes/learning/self/day04/InitailDemo.class" afterPath="$PROJECT_DIR$/target/test-classes/learning/self/day04/InitailDemo.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/test-classes/learning/self/day04/Student.class" afterPath="$PROJECT_DIR$/target/test-classes/learning/self/day04/Student.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/test-classes/learning/self/day05/Animal.class" afterPath="$PROJECT_DIR$/target/test-classes/learning/self/day05/Animal.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/test-classes/learning/self/day05/Animal2.class" afterPath="$PROJECT_DIR$/target/test-classes/learning/self/day05/Animal2.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/test-classes/learning/self/day05/BasicClassDemo.class" afterPath="$PROJECT_DIR$/target/test-classes/learning/self/day05/BasicClassDemo.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/test-classes/learning/self/day05/Cat.class" afterPath="$PROJECT_DIR$/target/test-classes/learning/self/day05/Cat.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/test-classes/learning/self/day05/Circle.class" afterPath="$PROJECT_DIR$/target/test-classes/learning/self/day05/Circle.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/test-classes/learning/self/day05/CircleDemo.class" afterPath="$PROJECT_DIR$/target/test-classes/learning/self/day05/CircleDemo.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/test-classes/learning/self/day05/Dog.class" afterPath="$PROJECT_DIR$/target/test-classes/learning/self/day05/Dog.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/test-classes/learning/self/day05/ExtendsDemo.class" afterPath="$PROJECT_DIR$/target/test-classes/learning/self/day05/ExtendsDemo.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/test-classes/learning/self/day05/Human.class" afterPath="$PROJECT_DIR$/target/test-classes/learning/self/day05/Human.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/test-classes/learning/self/day05/Person.class" afterPath="$PROJECT_DIR$/target/test-classes/learning/self/day05/Person.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/test-classes/learning/self/day05/PersonDemo.class" afterPath="$PROJECT_DIR$/target/test-classes/learning/self/day05/PersonDemo.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/test-classes/learning/self/day05/SingleMode.class" afterPath="$PROJECT_DIR$/target/test-classes/learning/self/day05/SingleMode.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/test-classes/learning/self/day05/SingleMode1.class" afterPath="$PROJECT_DIR$/target/test-classes/learning/self/day05/SingleMode1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/test-classes/learning/self/day05/SingleModeDemo.class" afterPath="$PROJECT_DIR$/target/test-classes/learning/self/day05/SingleModeDemo.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/test-classes/learning/self/day05/SingleTest.class" afterPath="$PROJECT_DIR$/target/test-classes/learning/self/day05/SingleTest.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/test-classes/learning/self/day05/StaticCode.class" afterPath="$PROJECT_DIR$/target/test-classes/learning/self/day05/StaticCode.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/test-classes/learning/self/day05/StaticCodeDemo.class" afterPath="$PROJECT_DIR$/target/test-classes/learning/self/day05/StaticCodeDemo.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/test-classes/learning/self/day05/Student.class" afterPath="$PROJECT_DIR$/target/test-classes/learning/self/day05/Student.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/test-classes/learning/self/day06/Employee.class" afterPath="$PROJECT_DIR$/target/test-classes/learning/self/day06/Employee.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/test-classes/learning/self/day06/Human.class" afterPath="$PROJECT_DIR$/target/test-classes/learning/self/day06/Human.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/test-classes/learning/self/day06/Programmer.class" afterPath="$PROJECT_DIR$/target/test-classes/learning/self/day06/Programmer.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/test-classes/learning/self/day06/Student.class" afterPath="$PROJECT_DIR$/target/test-classes/learning/self/day06/Student.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/test-classes/learning/self/day06/Worker.class" afterPath="$PROJECT_DIR$/target/test-classes/learning/self/day06/Worker.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/test-classes/learning/self/day06/duoTaiDemo1/Animal.class" afterPath="$PROJECT_DIR$/target/test-classes/learning/self/day06/duoTaiDemo1/Animal.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/test-classes/learning/self/day06/duoTaiDemo1/Cat.class" afterPath="$PROJECT_DIR$/target/test-classes/learning/self/day06/duoTaiDemo1/Cat.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/test-classes/learning/self/day06/duoTaiDemo1/CatchMouse.class" afterPath="$PROJECT_DIR$/target/test-classes/learning/self/day06/duoTaiDemo1/CatchMouse.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/test-classes/learning/self/day06/duoTaiDemo1/Dog.class" afterPath="$PROJECT_DIR$/target/test-classes/learning/self/day06/duoTaiDemo1/Dog.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/test-classes/learning/self/day06/duoTaiDemo1/DuoTaiDemo.class" afterPath="$PROJECT_DIR$/target/test-classes/learning/self/day06/duoTaiDemo1/DuoTaiDemo.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/test-classes/learning/self/day06/duoTaiDemo1/LookHome.class" afterPath="$PROJECT_DIR$/target/test-classes/learning/self/day06/duoTaiDemo1/LookHome.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/test-classes/learning/self/day06/duoTaiDemo2/Audio.class" afterPath="$PROJECT_DIR$/target/test-classes/learning/self/day06/duoTaiDemo2/Audio.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/test-classes/learning/self/day06/duoTaiDemo2/DVI.class" afterPath="$PROJECT_DIR$/target/test-classes/learning/self/day06/duoTaiDemo2/DVI.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/test-classes/learning/self/day06/duoTaiDemo2/DuoTaiDemo2.class" afterPath="$PROJECT_DIR$/target/test-classes/learning/self/day06/duoTaiDemo2/DuoTaiDemo2.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/test-classes/learning/self/day06/duoTaiDemo2/Equipment.class" afterPath="$PROJECT_DIR$/target/test-classes/learning/self/day06/duoTaiDemo2/Equipment.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/test-classes/learning/self/day06/duoTaiDemo2/KeyBoard.class" afterPath="$PROJECT_DIR$/target/test-classes/learning/self/day06/duoTaiDemo2/KeyBoard.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/test-classes/learning/self/day06/duoTaiDemo2/Mouse.class" afterPath="$PROJECT_DIR$/target/test-classes/learning/self/day06/duoTaiDemo2/Mouse.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/test-classes/learning/self/day06/duoTaiDemo2/NoteBook.class" afterPath="$PROJECT_DIR$/target/test-classes/learning/self/day06/duoTaiDemo2/NoteBook.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/test-classes/learning/self/day06/duoTaiDemo2/USB.class" afterPath="$PROJECT_DIR$/target/test-classes/learning/self/day06/duoTaiDemo2/USB.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/test-classes/learning/self/day06/duoTaiDemo3/DuoTaiDemo3.class" afterPath="$PROJECT_DIR$/target/test-classes/learning/self/day06/duoTaiDemo3/DuoTaiDemo3.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/test-classes/learning/self/day06/duoTaiDemo3/Fu.class" afterPath="$PROJECT_DIR$/target/test-classes/learning/self/day06/duoTaiDemo3/Fu.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/test-classes/learning/self/day06/duoTaiDemo3/Zi.class" afterPath="$PROJECT_DIR$/target/test-classes/learning/self/day06/duoTaiDemo3/Zi.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/test-classes/learning/self/day06/inner/demo1/InnerClassDemo.class" afterPath="$PROJECT_DIR$/target/test-classes/learning/self/day06/inner/demo1/InnerClassDemo.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/test-classes/learning/self/day06/inner/demo1/Outer$Inner.class" afterPath="$PROJECT_DIR$/target/test-classes/learning/self/day06/inner/demo1/Outer$Inner.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/test-classes/learning/self/day06/inner/demo1/Outer$Inner2.class" afterPath="$PROJECT_DIR$/target/test-classes/learning/self/day06/inner/demo1/Outer$Inner2.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/test-classes/learning/self/day06/inner/demo1/Outer$Inner3.class" afterPath="$PROJECT_DIR$/target/test-classes/learning/self/day06/inner/demo1/Outer$Inner3.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/test-classes/learning/self/day06/inner/demo1/Outer.class" afterPath="$PROJECT_DIR$/target/test-classes/learning/self/day06/inner/demo1/Outer.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/test-classes/learning/self/day06/inner/demo1/Outer2$Inner.class" afterPath="$PROJECT_DIR$/target/test-classes/learning/self/day06/inner/demo1/Outer2$Inner.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/test-classes/learning/self/day06/inner/demo1/Outer2.class" afterPath="$PROJECT_DIR$/target/test-classes/learning/self/day06/inner/demo1/Outer2.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/test-classes/learning/self/day06/inner/demo2/StaticInnerDemo.class" afterPath="$PROJECT_DIR$/target/test-classes/learning/self/day06/inner/demo2/StaticInnerDemo.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/test-classes/learning/self/day06/inner/demo4/MainDemo.class" afterPath="$PROJECT_DIR$/target/test-classes/learning/self/day06/inner/demo4/MainDemo.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/test-classes/learning/self/day06/inner/demo4/Outer$Inner.class" afterPath="$PROJECT_DIR$/target/test-classes/learning/self/day06/inner/demo4/Outer$Inner.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/test-classes/learning/self/day06/inner/demo4/Outer.class" afterPath="$PROJECT_DIR$/target/test-classes/learning/self/day06/inner/demo4/Outer.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/test-classes/learning/self/day06/object/ObjectDemo.class" afterPath="$PROJECT_DIR$/target/test-classes/learning/self/day06/object/ObjectDemo.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/test-classes/learning/self/day06/object/Person.class" afterPath="$PROJECT_DIR$/target/test-classes/learning/self/day06/object/Person.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/test-classes/learning/self/day07/ArrayToString.class" afterPath="$PROJECT_DIR$/target/test-classes/learning/self/day07/ArrayToString.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/test-classes/learning/self/day07/Bisearch.class" afterPath="$PROJECT_DIR$/target/test-classes/learning/self/day07/Bisearch.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/test-classes/learning/self/day07/BubbleTest.class" afterPath="$PROJECT_DIR$/target/test-classes/learning/self/day07/BubbleTest.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/test-classes/learning/self/day07/CompareDemo.class" afterPath="$PROJECT_DIR$/target/test-classes/learning/self/day07/CompareDemo.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/test-classes/learning/self/day07/ForDemo.class" afterPath="$PROJECT_DIR$/target/test-classes/learning/self/day07/ForDemo.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/test-classes/learning/self/day07/NumToWeek.class" afterPath="$PROJECT_DIR$/target/test-classes/learning/self/day07/NumToWeek.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/test-classes/learning/self/day07/Person.class" afterPath="$PROJECT_DIR$/target/test-classes/learning/self/day07/Person.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/test-classes/learning/self/day07/SelectionSort.class" afterPath="$PROJECT_DIR$/target/test-classes/learning/self/day07/SelectionSort.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/test-classes/learning/self/day07/SwitchDemo.class" afterPath="$PROJECT_DIR$/target/test-classes/learning/self/day07/SwitchDemo.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/test-classes/learning/self/day07/scaleOf16.class" afterPath="$PROJECT_DIR$/target/test-classes/learning/self/day07/scaleOf16.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/test-classes/learning/self/day08/AgeOutOfLimitException.class" afterPath="$PROJECT_DIR$/target/test-classes/learning/self/day08/AgeOutOfLimitException.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/test-classes/learning/self/day08/Animal.class" afterPath="$PROJECT_DIR$/target/test-classes/learning/self/day08/Animal.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/test-classes/learning/self/day08/ArrayOutOfBoundException.class" afterPath="$PROJECT_DIR$/target/test-classes/learning/self/day08/ArrayOutOfBoundException.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/test-classes/learning/self/day08/BlueScreenException.class" afterPath="$PROJECT_DIR$/target/test-classes/learning/self/day08/BlueScreenException.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/test-classes/learning/self/day08/ExceptionDemo.class" afterPath="$PROJECT_DIR$/target/test-classes/learning/self/day08/ExceptionDemo.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/test-classes/learning/self/day08/NoplanException.class" afterPath="$PROJECT_DIR$/target/test-classes/learning/self/day08/NoplanException.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/test-classes/learning/self/day08/NoteBook.class" afterPath="$PROJECT_DIR$/target/test-classes/learning/self/day08/NoteBook.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/test-classes/learning/self/day08/NullPointExceptionDemo.class" afterPath="$PROJECT_DIR$/target/test-classes/learning/self/day08/NullPointExceptionDemo.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/test-classes/learning/self/day08/Person.class" afterPath="$PROJECT_DIR$/target/test-classes/learning/self/day08/Person.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/test-classes/learning/self/day08/SerializableDemo.class" afterPath="$PROJECT_DIR$/target/test-classes/learning/self/day08/SerializableDemo.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/test-classes/learning/self/day08/SmokeException.class" afterPath="$PROJECT_DIR$/target/test-classes/learning/self/day08/SmokeException.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/test-classes/learning/self/day08/Teacher.class" afterPath="$PROJECT_DIR$/target/test-classes/learning/self/day08/Teacher.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/test-classes/learning/self/day09/bankStoreMoney/Bank.class" afterPath="$PROJECT_DIR$/target/test-classes/learning/self/day09/bankStoreMoney/Bank.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/test-classes/learning/self/day09/bankStoreMoney/Consumer.class" afterPath="$PROJECT_DIR$/target/test-classes/learning/self/day09/bankStoreMoney/Consumer.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/test-classes/learning/self/day09/bankStoreMoney/ThreadDemo.class" afterPath="$PROJECT_DIR$/target/test-classes/learning/self/day09/bankStoreMoney/ThreadDemo.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/test-classes/learning/self/day09/consumerProducerDemo/Consumer.class" afterPath="$PROJECT_DIR$/target/test-classes/learning/self/day09/consumerProducerDemo/Consumer.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/test-classes/learning/self/day09/consumerProducerDemo/MainDemo.class" afterPath="$PROJECT_DIR$/target/test-classes/learning/self/day09/consumerProducerDemo/MainDemo.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/test-classes/learning/self/day09/consumerProducerDemo/Producer.class" afterPath="$PROJECT_DIR$/target/test-classes/learning/self/day09/consumerProducerDemo/Producer.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/test-classes/learning/self/day09/consumerProducerDemo/Resource.class" afterPath="$PROJECT_DIR$/target/test-classes/learning/self/day09/consumerProducerDemo/Resource.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/test-classes/learning/self/day09/deathThread/DeadLock.class" afterPath="$PROJECT_DIR$/target/test-classes/learning/self/day09/deathThread/DeadLock.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/test-classes/learning/self/day09/deathThread/LockMain.class" afterPath="$PROJECT_DIR$/target/test-classes/learning/self/day09/deathThread/LockMain.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/test-classes/learning/self/day09/deathThread/MyLock.class" afterPath="$PROJECT_DIR$/target/test-classes/learning/self/day09/deathThread/MyLock.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/test-classes/learning/self/day09/deathThread/ThreadDemo.class" afterPath="$PROJECT_DIR$/target/test-classes/learning/self/day09/deathThread/ThreadDemo.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/test-classes/learning/self/day09/deathThread/TicketSell.class" afterPath="$PROJECT_DIR$/target/test-classes/learning/self/day09/deathThread/TicketSell.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/test-classes/learning/self/day09/singleDemo/Single.class" afterPath="$PROJECT_DIR$/target/test-classes/learning/self/day09/singleDemo/Single.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/test-classes/learning/self/day09/singleDemo/Single2.class" afterPath="$PROJECT_DIR$/target/test-classes/learning/self/day09/singleDemo/Single2.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/test-classes/learning/self/day09/threadTwoMethod/ThreadDemo.class" afterPath="$PROJECT_DIR$/target/test-classes/learning/self/day09/threadTwoMethod/ThreadDemo.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/test-classes/learning/self/day09/threadTwoMethod/ThreadStartMethond1.class" afterPath="$PROJECT_DIR$/target/test-classes/learning/self/day09/threadTwoMethod/ThreadStartMethond1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/test-classes/learning/self/day09/threadTwoMethod/ThreadStartMethond2.class" afterPath="$PROJECT_DIR$/target/test-classes/learning/self/day09/threadTwoMethod/ThreadStartMethond2.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/test-classes/learning/self/day09/ticketSell/ThreadDemo.class" afterPath="$PROJECT_DIR$/target/test-classes/learning/self/day09/ticketSell/ThreadDemo.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/test-classes/learning/self/day09/ticketSell/TicketSell.class" afterPath="$PROJECT_DIR$/target/test-classes/learning/self/day09/ticketSell/TicketSell.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/test-classes/learning/self/day09/ticketSell/TicketSell2.class" afterPath="$PROJECT_DIR$/target/test-classes/learning/self/day09/ticketSell/TicketSell2.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/test-classes/learning/work/ImportWsdl.class" afterPath="$PROJECT_DIR$/target/test-classes/learning/work/ImportWsdl.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/test-classes/learning/work/ReadExcel.class" afterPath="$PROJECT_DIR$/target/test-classes/learning/work/ReadExcel.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/test-classes/learning/work/WsMethodInfo.class" afterPath="$PROJECT_DIR$/target/test-classes/learning/work/WsMethodInfo.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/compiler.xml" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/selflearning.iml" afterPath="$PROJECT_DIR$/selflearning.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/META-INF/MANIFEST.MF" afterPath="$PROJECT_DIR$/src/main/resources/META-INF/MANIFEST.MF" />
     </list>
     <ignored path="selflearning.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -326,8 +53,8 @@
       <file leaf-file-name="UploadTextClient.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/learning/self/socketService/tcpUploadText/UploadTextClient.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.35215947">
-              <caret line="23" column="68" selection-start-line="23" selection-start-column="68" selection-end-line="23" selection-end-column="68" />
+            <state vertical-scroll-proportion="0.25249168">
+              <caret line="19" column="24" selection-start-line="19" selection-start-column="24" selection-end-line="19" selection-end-column="24" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -1363,8 +1090,15 @@
       <workItem from="1528436013688" duration="5983000" />
       <workItem from="1528871641024" duration="2260000" />
       <workItem from="1529580599660" duration="328000" />
-      <workItem from="1529581361436" duration="843000" />
+      <workItem from="1529581361436" duration="992000" />
     </task>
+    <task id="LOCAL-00001" summary="update code">
+      <created>1529992057166</created>
+      <option name="number" value="00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1529992057166</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -1400,7 +1134,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="229390000" />
+    <option name="totallyTimeSpent" value="229539000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1413,7 +1147,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-322" y="-1080" width="1920" height="1080" extended-state="0" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32970297" sideWeight="0.4978701" order="6" side_tool="false" content_ui="tabs" />
@@ -1422,7 +1156,7 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.37623763" sideWeight="0.5106496" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32970297" sideWeight="0.4978701" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.37623763" sideWeight="0.48935038" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.37623763" sideWeight="0.48935038" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32970297" sideWeight="0.4914803" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25346112" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -1452,6 +1186,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="update code" />
+    <option name="LAST_COMMIT_MESSAGE" value="update code" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1840,8 +1578,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/learning/self/socketService/tcpUploadText/UploadTextClient.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.35215947">
-          <caret line="23" column="68" selection-start-line="23" selection-start-column="68" selection-end-line="23" selection-end-column="68" />
+        <state vertical-scroll-proportion="0.25249168">
+          <caret line="19" column="24" selection-start-line="19" selection-start-column="24" selection-end-line="19" selection-end-column="24" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
